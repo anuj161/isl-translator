@@ -18,6 +18,6 @@ An AI-powered assistive tool designed to bridge the communication gap for the De
 - `/data`: Pre-processing scripts for ISL datasets.
 
 ## 🏁 Getting Started
-1. Clone the repo: `git clone https://github.com/[YOUR_USERNAME]/isl-translator.git`
+1. Clone the repo: `git clone https://github.com/anuj161/isl-translator.git`
 2. Install Python deps: `pip install -r requirements.txt`
 3. Run the demo: `python app.py`
